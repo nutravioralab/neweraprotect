@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://janwimittal4-eng.github.io/neweraprotect/sitemap.xml
